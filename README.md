@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there, 
+-This is alkinguler. I am a newbie software developer who wants to learn about frameworks, network and security.
+-Currenty working [@TurkNet](https://turk.net) as a Software Developer Intern.
+
+
 
 <!--
 **alkinguler/alkinguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
