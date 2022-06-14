@@ -1,6 +1,6 @@
 ### 👋 Hi there, 
--This is alkinguler. I am a newbie software developer who wants to learn about frameworks, network and security.
--Currenty working [@TurkNet](https://turk.net) as a Software Developer Intern.
+- This is alkinguler. I am a newbie software developer who wants to learn about frameworks, cloud computing, network systems and security.
+- :briefcase: Currenty working [@TurkNet](https://turk.net) as Software Developer Intern.
 
 
 
