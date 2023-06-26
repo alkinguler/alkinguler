@@ -1,5 +1,5 @@
 ## 👋 Hi there, this is alkinguler.
-- I am a software developer works on Full-stack development with several frameworks and languages.
+- I am a software developer who works on full-stack development using several frameworks and languages.
 - :briefcase: Currenty working for [ASELSAN](https://www.aselsan.com/tr) as a Software Engineer.
 - 📫 To reach me: <br/>
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/taner-alk%C4%B1n-g%C3%BCler-6563b3186/)
