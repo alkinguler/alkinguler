@@ -1,6 +1,6 @@
 ## 👋 Hi there, this is alkinguler.
-- I am a newbie software developer who wants to learn about frameworks, cloud computing, network systems and security.
-- :briefcase: Currenty working for [TurkNet](https://turk.net) as a Software Developer.
+- I am a software developer works on Full-stack development with several frameworks and languages.
+- :briefcase: Currenty working for [ASELSAN](https://www.aselsan.com/tr) as a Software Engineer.
 - 📫 To reach me: <br/>
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/taner-alk%C4%B1n-g%C3%BCler-6563b3186/)
 
