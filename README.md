@@ -4,6 +4,17 @@
 - 📫 To reach me: <br/>
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/taner-alk%C4%B1n-g%C3%BCler-6563b3186/)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alkinguler&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alkinguler&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alkinguler&show_icons=true" />
+</picture>
 
 
 <!--
